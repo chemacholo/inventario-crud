@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+
+# Secretos (nunca se suben)
+.env
+*.pem
+*.key
+
+# Node / frontend
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Go / backend
+inventario
+inventario.exe
+*.test
+*.out
+
+# Editor
+.vscode/
+.idea/
